@@ -9,7 +9,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |1| Introduction to Deep Learning / Syllabus | [`.pdf`](./slides/intro_0903.pdf) [`.pptx`](./slides/intro_0903.pptx) | | [`Slido`](https://app.sli.do/event/w95AaADjCS4sQHdmD93Rw4) |  |
 |2|神經網路與梯度下降| [`.pdf`](./slides/nn_gd_0910.pdf) [`.pptx`](./slides/nn_gd_0910.pptx) | | [`Slido`](https://app.sli.do/event/vaWcY1tmNxZM4RVBwS7B2e)
-|3|反向傳播法| [`.pdf`](./slides/backprop_0917.pdf) [`.pptx`](./slides/backprop_0917.pptx) | [`NumPy`](./code/numpy_基本功能.ipynb) | [`Slido`](https://app.sli.do/event/bbuHZY1x65qHqEKE1GpFeC) | | [`HW1`](./homework/HW1.pdf) |
+|3|反向傳播法| [`.pdf`](./slides/backprop_0917.pdf) [`.pptx`](./slides/backprop_0917.pptx) | [`Jupyter`](./code/jupyter_基本功能.ipynb) [`NumPy`](./code/numpy_基本功能.ipynb) | [`Slido`](https://app.sli.do/event/bbuHZY1x65qHqEKE1GpFeC) | | [`HW1`](./homework/HW1.pdf) |
 |4|最佳化方法:SGD, Momentum, RMSProp, Adam| | [`PyTorch Basics`]() |
 |5|常見損失函數介紹| | [`PyTorch Modeling`]() |
 |6|卷積神經網路| | [`CV in PyTorch (1)`]() |

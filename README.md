@@ -12,7 +12,7 @@
 |3|反向傳播法| [`.pdf`](./slides/backprop_0917.pdf) [`.pptx`](./slides/backprop_0917.pptx) | [`Jupyter`](./code/jupyter_基本功能.ipynb) [`NumPy`](./code/numpy_基本功能.ipynb) | [`Slido`](https://app.sli.do/event/bbuHZY1x65qHqEKE1GpFeC) | | [`HW1`](./homework/HW1.pdf) [`Quiz`](./quizzes/w3.md)|
 |4|最佳化方法: SGD, Momentum, RMSProp, Adam| [`.pdf`](./slides/optimizers_0924.pdf) [`.pptx`](./slides/optimizers_0924.pptx) | [`PyTorch Basics`](./code/pytorch_基本功能.ipynb) | [`Slido`](https://app.sli.do/event/34TnFi6Hfe7tixdF2Z7oDV) |
 |5|常見損失函數介紹| [`.pdf`](./slides/objectives_1001.pdf) [`.pptx`](./slides/objectives_1001.pptx) | [`PyTorch GD`](./code/pytorch_gd.ipynb) [`PyTorch Modeling`](./code/pytorch_mnist.ipynb) | [`Slido`](https://app.sli.do/event/r6bsGhmsqjXx3WLiJiGQdT) | |
-|6|卷積神經網路| | [`CV in PyTorch (1)`]() |
+|6|卷積神經網路| | [`CNN PyTorch`](./code/cnn_pytorch/) | [`Slido`](https://app.sli.do/event/fqEtyRv9jmhGyLAZYE2pjC) |
 |7|過擬合、正規化、模型訓練技巧、期末專案介紹| | [`CV in PyTorch (2)`]() |
 |8|自然語言處理:RNN與序列建模| | [`NLP in PyTorch`]() |
 |9|期中考|

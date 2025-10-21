@@ -14,7 +14,7 @@
 |5|常見損失函數介紹| [`.pdf`](./slides/objectives_1001.pdf) [`.pptx`](./slides/objectives_1001.pptx) | [`PyTorch GD`](./code/pytorch_gd.ipynb) [`PyTorch Modeling`](./code/pytorch_mnist.ipynb) | [`Slido`](https://app.sli.do/event/r6bsGhmsqjXx3WLiJiGQdT) |  [`Video1`](https://youtu.be/QszuttVKb0w) [`Video2`](https://youtu.be/h6EWSECwiZs) [`PyTorch1`](https://youtu.be/NEBJqya2IDs) [`PyTorch2`](https://youtu.be/41r4nmeGitk) |
 |6|卷積神經網路| [`.pdf`](./slides/cnn_1008.pdf) [`.pptx`](./slides/cnn_1008.pptx) [`HW2`](https://docs.google.com/presentation/d/106yrLbieNpOiUJ5WCxhmafv9RL7n6cY5x1uoUc_QLaM/edit?usp=sharing) | [`CNN PyTorch`](./code/cnn_pytorch/) [`HW2_sample`](./homework/hw2_sample.ipynb) | [`Slido`](https://app.sli.do/event/fqEtyRv9jmhGyLAZYE2pjC) |  [`Video1`]() [`Video2`]() [`Video3`]() |
 |7|過擬合、正規化、模型訓練技巧、期末專案介紹| [`.pdf`](./slides/training_tips_1015.pdf) [`.pptx`](./slides/training_tips_1015.pptx) [`projects.pdf`](./slides/projects_1015.pdf) [`projects.pptx`](./slides/projects_1015.pptx) | [`model.eval()`](./code/model_eval_behavior.ipynb) | [`Slido`](https://app.sli.do/event/trLLdJv5TjT9ahwZTURqNG) |
-|8|自然語言處理:RNN與序列建模| [`.pdf`](./slides/rnn_1022.pdf) [`.pptx`](./slides/rnn_1022.pptx) | [`NLP in PyTorch`](./code/NN_中文文本分類.ipynb) | [`Slido`](https://app.sli.do/event/r6bsGhmsqjXx3WLiJiGQdT)
+|8|自然語言處理:RNN與序列建模| [`.pdf`](./slides/rnn_1022.pdf) [`.pptx`](./slides/rnn_1022.pptx) | [`NLP in PyTorch`](./code/NN_中文文本分類.ipynb) | [`Slido`](https://app.sli.do/event/6514xqxQa15XW2PKgHA8hY)
 |9|期中考|
 |10|自注意力機制模型|
 |11|Vision Transformers (ViT)、自監督式學習與預訓練模型|

@@ -19,7 +19,7 @@
 |10|自注意力機制模型| [`.pdf`](./slides/transformers_1105.pdf) [`.pptx`](./slides/transformers_1105.pptx) [`HW3`](https://docs.google.com/presentation/d/117264PHlW0yOc2YZV5fJiGRhGer78S0hs72tZ2eSULY/edit?usp=sharing) | [`Transformer`](./code/NN_中文文本分類v2.ipynb) [`HW3_sample`](./homework/hw3_sample.ipynb) | [`Slido`](https://app.sli.do/event/uuJpcD24bAi7Qj7EzSgQCm) |
 |11|Vision Transformers (ViT)、自監督式學習與預訓練模型| [`.pdf`](./slides/w11_ssl_1112.pdf) [`.pptx`](./slides/w11_ssl_1112.pptx) | [`ViT`](./code/vit/) |[`Slido`](https://app.sli.do/event/f4AyC4nV31kbBjuL3zEi6U)|
 |12|大型語言模型| [`.pdf`](./slides/w12_llm_1119.pdf) [`.pptx`](./slides/w12_llm_1119.pptx) | [`LLM example`](./code/llm_for_got.ipynb) | [`Slido`](https://app.sli.do/event/8snWo8fi4tc3ZqAH5B3KEy)
-|13|大模型時代如何有效率訓練模型?| |[🤗 `PEFT`]() [🤗 `Quantization`]() |
+|13|大模型時代如何有效率訓練模型?| |[🤗 `PEFT`](./code/lm_peft.ipynb) [`HW4_sample`](./code/) | [`Slido`](https://app.sli.do/event/9VB56ey4A7jogNmrmaPQ7b) |
 |14|圖神經網路|
 |15|強化學習|
 |16|小組實作成果報告|

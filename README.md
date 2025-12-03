@@ -20,7 +20,7 @@
 |11|Vision Transformers (ViT)、自監督式學習與預訓練模型| [`.pdf`](./slides/w11_ssl_1112.pdf) [`.pptx`](./slides/w11_ssl_1112.pptx) | [`ViT`](./code/vit/) |[`Slido`](https://app.sli.do/event/f4AyC4nV31kbBjuL3zEi6U)|
 |12|大型語言模型| [`.pdf`](./slides/w12_llm_1119.pdf) [`.pptx`](./slides/w12_llm_1119.pptx) | [`LLM example`](./code/llm_for_got.ipynb) | [`Slido`](https://app.sli.do/event/8snWo8fi4tc3ZqAH5B3KEy)
 |13|大模型時代如何有效率訓練模型?| [`.pdf`](./slides/w13_PEFT_1126.pdf) [`.pptx`](./slides/w13_PEFT_1126.pptx) [`HW4`](https://docs.google.com/presentation/d/1N0ETi-MQgjqXdTOtSmZNlz-L4OyWX0EoxolMRfn9XhA/edit?usp=sharing) |[🤗 `PEFT`](./code/lm_peft.ipynb) [`HW4_sample`](./homework/HW4) | [`Slido`](https://app.sli.do/event/9VB56ey4A7jogNmrmaPQ7b) |
-|14|圖神經網路| [`.pdf`](./slides/w14_gnn_1203.pdf) [`.pptx`](./slides/w14_gnn_1203.pptx) | [`gnn`](./code/gnn.ipynb) | 
+|14|圖神經網路| [`.pdf`](./slides/w14_gnn_1203.pdf) [`.pptx`](./slides/w14_gnn_1203.pptx) | [`gnn`](./code/gnn.ipynb) | [`Slido`](https://app.sli.do/event/a9Ks9X76bjkXihUKA4zCdX) |
 |15|強化學習|
 |16|小組實作成果報告|
 
